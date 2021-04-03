@@ -6,6 +6,7 @@ import requests
 import aiohttp
 import youtube_dl
 
+from JESongBot import Jebot as app
 from pyrogram import filters, Client
 from youtube_search import YoutubeSearch
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputTextMessageContent
