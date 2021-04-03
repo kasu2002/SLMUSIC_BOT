@@ -30,11 +30,9 @@ async def start(client, message):
                         text="Source", url="https://github.com/ImJanindu/JESongBot"
                     ),
                     InlineKeyboardButton(
-                        text="Dev", url="https://t.me/ImJanindu"
+                        text="Dev", url="https://https://t.me/kasu_bro"
                     )
-                    InlineKeyboardButton(
-                        text="Edit", url="https://https://t.me/kasu_bro"
-                    )
+                   
                 ]
             ]
         )
