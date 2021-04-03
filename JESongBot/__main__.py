@@ -1,6 +1,6 @@
 # Infinity BOTs <https://t.me/Infinity_BOTs>
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
-from JESongBot.modules import *
+from JESongBot.plugins import *
 from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from JESongBot import Jebot as app
