@@ -8,7 +8,6 @@
         "Telegram Bot",
         "epusthakalaya bots"
     ],
-    "website": "https://infinityje.com",
     "repository": "https://github.com/ImJanindu/JESongBot",
     "success_url": "https://t.me/e_pusthakalaya",
     "env": {
