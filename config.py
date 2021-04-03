@@ -1,4 +1,4 @@
-# Infinity BOTs <https://t.me/Infinity_BOTs>
+# epusthakalaya bot <https://t.me/e_pusthakalaya>
 
 import os
 API_ID = int(os.getenv("API_ID"))
