@@ -1,4 +1,5 @@
 # Infinity BOTs <https://t.me/Infinity_BOTs>
+
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
 from JESongBot.plugins import *
 from pyrogram import idle, filters
@@ -36,7 +37,7 @@ async def start(client, message):
         )
     else:
         btn = None
-    await message.reply(start_text.format(name, user_id), reply_markup=btn)
+    await message.reply(pm_start_text.format(name, user_id), reply_markup=btn)
 
 
 app.start()
