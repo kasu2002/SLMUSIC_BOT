@@ -1,10 +1,10 @@
-# JE Song Bot
+# SLMUSIC BOT
 ## A telegram bot that can download songs
 <p align="center">
-  <img src="https://telegra.ph/file/172120c93b52738be277b.jpg">
+  <img src="https://telegra.ph/file/242e000b792b479ff2ae6.jpg">
 </p>
 
-Reach me on Telegram [Song Bot 🎵](https://t.me/jesongbot)
+Reach me on Telegram [SLMUSIC BOT](https://http://t.me/SLmusicRoBot)
 
 ## How To Host
 
@@ -15,3 +15,5 @@ The easiest way to deploy this Song Bot
 
 - [Pyrogram](https://github.com/pyrogram)
 - Mr Dark Prince
+- [Infinity BOTs](https://t.me/InfinityBOTs_Support)
+- Im Janindu
