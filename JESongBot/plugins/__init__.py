@@ -1,4 +1,4 @@
-# Infinity BOTs <https://t.me/Infinity_BOTs>
+# epusthakalaya bot <https://t.me/e_pusthakalaya>
 
 from os.path import dirname, basename, isfile, join
 import glob
