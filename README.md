@@ -1,7 +1,7 @@
 # SLMUSIC BOT
 ## A telegram bot that can download songs
 <p align="center">
-  <img src="https://https://t.me/kasu_bro">
+  <img src="https://telegra.ph/file/242e000b792b479ff2ae6.jpg">
 </p>
 
 Reach me on Telegram [SLMUSIC BOT](https://http://t.me/SLmusicRoBot)
