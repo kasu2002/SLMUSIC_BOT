@@ -1,11 +1,11 @@
-# Infinity BOTs <https://t.me/Infinity_BOTs>
+# epusthakalaya bots <https://t.me/e_pusthakalaya>
 
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
-from JESongBot.plugins import *
+from SLMUSICBOT.plugins import *
 from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from JESongBot import Jebot as app
-from JESongBot import LOGGER
+from SLMUSICBOT import Jebot as app
+from SLMUSICBOT import LOGGER
 
 pm_start_text = """
 Heya [{}](tg://user?id={}), I'm Song Downloader Bot 🎵
@@ -13,7 +13,7 @@ Heya [{}](tg://user?id={}), I'm Song Downloader Bot 🎵
 Just send me the song name you want to download.
 eg: ```/song Satisfya```
 
-A bot by @Infinity_BOTs
+A bot by @e_pusthakalaya
 """
 
 
@@ -32,6 +32,9 @@ async def start(client, message):
                     InlineKeyboardButton(
                         text="Dev", url="https://t.me/ImJanindu"
                     )
+                    InlineKeyboardButton(
+                        text="Edit", url="https://https://t.me/kasu_bro"
+                    )
                 ]
             ]
         )
@@ -41,5 +44,5 @@ async def start(client, message):
 
 
 app.start()
-LOGGER.info("JESongBot is online.")
+LOGGER.info("SLMUSICBOT is online.")
 idle()
