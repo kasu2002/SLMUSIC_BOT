@@ -4,7 +4,6 @@
   <img src="https://telegra.ph/file/242e000b792b479ff2ae6.jpg">
 </p>
 
-Reach me on Telegram [SLMUSIC BOT](https://http://t.me/SLmusicRoBot)
 
 ## How To Host
 
